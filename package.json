@@ -1,0 +1,30 @@
+{
+  "name": "vue-viewport",
+  "version": "0.0.1",
+  "description": "Vue plugin for detecting when elements enter and leave the viewport",
+  "keywords": [
+    "vue",
+    "viewport"
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holic/vue-viewport.git"
+  },
+  "bugs": "https://github.com/holic/vue-viewport/issues",
+  "homepage": "https://github.com/holic/vue-viewport",
+  "author": {
+    "name": "Kevin Ingersoll",
+    "email": "kingersoll@gmail.com",
+    "url": "http://keviningersoll.com/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "~0.10.5",
+    "gulp": "~3.8.2",
+    "vinyl-source-stream": "~0.1.1",
+    "browserify": "~4.1.11",
+    "gulp-rename": "~1.2.0",
+    "gulp-uglify": "~0.3.1"
+  }
+}
